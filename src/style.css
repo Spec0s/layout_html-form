@@ -1,1 +1,10 @@
 /* styles go here */
+.form-field + label {
+  display: block;
+  margin-top: 10px;
+  /* background-color: red; */
+}
+
+.form__sections {
+  margin-bottom: 20px;
+}
